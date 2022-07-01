@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TBC_Course_8</string>
+    <string name="save">Save</string>
+    <string name="output">Output</string>
+    <string name="enter_your_anagram">Enter your anagram</string>
+    <string name="anagram_count">Anagram Count</string>
+    <string name="anagram_map">Anagram map</string>
+</resources>
